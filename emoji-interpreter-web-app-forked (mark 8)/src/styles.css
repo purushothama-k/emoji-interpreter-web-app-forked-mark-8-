@@ -1,0 +1,16 @@
+.App {
+  /* font-family: sans-serif; */
+  text-align: center;
+  font-family: "Ubuntu", sans-serif;
+}
+
+input {
+  width: 35%;
+  height: 30px;
+  border: 2px solid black;
+  padding: 5px;
+}
+
+h2 {
+  color: #1363df;
+}
